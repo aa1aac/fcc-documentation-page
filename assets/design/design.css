@@ -1,0 +1,52 @@
+
+nav{
+    float: left;
+    margin-right:2%;
+    font-size: 25px;
+    line-height: 39px;
+    position:fixed;
+    top:-10px;
+    left:0;
+    text-align: center;
+    background-color:whitesmoke;
+    font-family: 'salbo 27px',serif; 
+}
+main{
+    position: absolute;
+    right:0px;
+    left:395px;
+    text-align: justify;
+    line-height:30px;
+    font-family: 'Slabo 27px', serif;
+    font-size:20px;
+    width:70%;
+    top:0;
+
+}
+
+.code{
+    background-color:gainsboro; 
+}
+a{
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+.header{
+    font-weight: bold;
+    padding:28px;
+}
+header{
+    font-family: 'Dancing Script', cursive;
+    background-color:black;
+    color:WHITE;
+    padding:1px;
+    
+}
+#reference{
+    margin-top:2%;
+}
