@@ -9,17 +9,18 @@ nav{
     left:0;
     text-align: center;
     background-color:whitesmoke;
-    font-family: 'salbo 27px',serif; 
+    font-family: 'salbo 27px',serif;
+    width:25%; 
 }
 main{
     position: absolute;
     right:0px;
-    left:395px;
+    left:338px;
     text-align: justify;
     line-height:30px;
     font-family: 'Slabo 27px', serif;
     font-size:20px;
-    width:70%;
+    width:75%;
     top:0;
 
 }
